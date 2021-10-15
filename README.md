@@ -1,6 +1,6 @@
 # Introduction
 
-This directory contains label export from JSON COCO to YOLO. It is based on on import/export software developed by Ultralytics LLC, and **is freely available for redistribution under the GPL-3.0 license**. For more information please visit https://www.ultralytics.com.
+This script converts annotations from JSON COCO to YOLO format. It is based on on import/export software developed by Ultralytics LLC, and **is freely available for redistribution under the GPL-3.0 license**. For more information please visit https://www.ultralytics.com.
 
 # Description
 
